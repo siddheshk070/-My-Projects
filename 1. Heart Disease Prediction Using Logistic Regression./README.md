@@ -45,7 +45,7 @@ Behavioral</li>
 
 
 ### Predict variable (Desired target)
-<li>10 year risk of coronary heart disease CHD (binary: “1”, means “Yes”, “0” means “No”)</li>
+<li>10 year risk of coronary heart disease CHD (binary: “1” means “Yes”, “0” means “No”)</li>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
