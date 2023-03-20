@@ -14,7 +14,7 @@ Behavioral</li>
 <li> Cigs Per Day: the number of cigarettes that the person smoked on average in one day.(can be considered continuous as one can have any number of cigarettes, even half a cigarette.)</li>
 
 
-### Medical( history)
+### Medical( History)
 <li> BP Meds: whether or not the patient was on blood pressure medication (Nominal)</li>
 <li> Prevalent Stroke: whether or not the patient had previously had a stroke (Nominal)</li>
 <li> Prevalent Hyp: whether or not the patient was hypertensive (Nominal)</li>
