@@ -11,7 +11,14 @@ Variables
 Each attribute is a potential risk factor. There are both demographic, behavioral and medical risk factors.</p>
 
 ### Dataset link
-"https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression" 
+
+#### About this file:
+
+http://www.who.int/mediacentre/factsheets/fs317/en/
+
+#### Data Source References
+
+https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression
 
 ### Demographic:
 <li>Sex: male or female(Nominal)</li>
