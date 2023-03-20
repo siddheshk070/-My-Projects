@@ -24,7 +24,7 @@ Behavioral</li>
 <li> Diabetes: whether or not the patient had diabetes (Nominal)</li>
 
 
-### Medical(current)
+### Medical(Current)
 <li> Tot Chol: total cholesterol level (Continuous)</li>
 <li> Sys BP: systolic blood pressure (Continuous)</li>
 <li> Dia BP: diastolic blood pressure (Continuous)</li>
@@ -33,7 +33,7 @@ Behavioral</li>
 <li> Glucose: glucose level (Continuous)</li>
 
 
-### Predict variable (desired target)
+### Predict variable (Desired target)
 <li>10 year risk of coronary heart disease CHD (binary: “1”, means “Yes”, “0” means “No”)</li>
 
 ### Dataset link
