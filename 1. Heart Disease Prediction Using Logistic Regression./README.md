@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://github.com/siddheshk070/siddheshk070/blob/main/data%20science%20image.jfif" alt="Background" height="250" width="700">
+  <img src="https://github.com/siddheshk070/My-Projects/blob/siddheshk070/1.%20Heart%20Disease%20Prediction%20Using%20Logistic%20Regression./HEART%20RATE%20PREDICTION.PNG" alt="Background" height="250" width="500">
 
 # Heart
 
