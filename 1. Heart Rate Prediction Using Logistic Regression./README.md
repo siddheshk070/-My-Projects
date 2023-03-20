@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/siddheshk070/siddheshk070/blob/main/data%20science%20image.jfif" alt="Background" height="250" width="700">
+
 # Heart Disease Prediction:
 World Health Organization has estimated 12 million deaths occur worldwide, every year due to Heart diseases. Half the deaths in the United States and other developed countries are due to cardio vascular diseases. The early prognosis of cardiovascular diseases can aid in making decisions on lifestyle changes in high risk patients and in turn reduce the complications. This research intends to pinpoint the most relevant/risk factors of heart disease as well as predict the overall risk using logistic regressio
 
