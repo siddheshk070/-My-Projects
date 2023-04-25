@@ -1,17 +1,32 @@
  <p align="center">
-  <img src="https://exceltable.com/en/templates/images/template1-1.gif" alt="Background" height="350 width="60">
+  <img src="https://images.squarespace-cdn.com/content/v1/5d4ee40b4f17990001a00905/1617922427624-K7IQZRDSENRZZDEOAQXD/IMG_2371.GIF?format=750w" alt="Background" height="300 width="500">
 
-# **Sales Analysis Dashboard**-(Tableau Project)
+# **Crime Analysis Dashboard**-(Tableau Project)
 
-DigiComp is a global enterprise that, among other things, caters to designing, developing, manufacturing and marketing products like - clothing materials.
+DESCRIPTION
 
-DigiComp has expanded its presence across the globe, and the business wants to get an in-depth analysis of its sales so as to make better sales decisions. So, DigiComp has decided to use Tableau Dashboards to consolidate the data from multiple sources, and carry out the sales analysis. This will help the sales department to access the data from remote locations that would increase the overall timeliness, find inefficiencies, and make better decisions.
+*Problem Scenario*: Crime analysis is important for law-and-order maintenance at any place. It helps the police department and law enforcement agencies to identify patterns of crime, which is crucial for the effective planning of a crime prevention program. The purpose of crime data analysis is to support the operations of the police department, like a criminal investigation, apprehension, prosecution, and development of crime prevention and reduction strategies.
 
 ## About
-The dataset is  available on my Github, DigiComp has expanded its presence across the globe, and the business wants to get an in-depth analysis of its sales so as to make better sales decisions. So, DigiComp has decided to use Tableau Dashboards to consolidate the data from multiple sources, and carry out the sales analysis. This will help the sales department to access the data from remote locations that would increase the overall timeliness, find inefficiencies, and make better decisions.</p>
+The dataset is  available on my Github, 
+Crime analysis provides a process, which incorporates crime into site analysis.1 The analysis is sometimes called a safety audit or risk assessment. This process has been developed based on a variety of neighborhoods and sites and in particular areas ranging from neighborhood developments, transit stations, mega-block developments, park designs, public realm plazas, and corporate/business operations. An outline of the analysis process includes:
+
+1. Demographic analysis,
+
+2. Crime analysis,
+
+3. Site analysis,
+
+4. Use analysis,
+
+5. Neighborhood/user consultation, and
+
+6. Pathway analysis.
+
+Situational crime prevention incorporates other crime prevention and law enforcement strategies in an effort to focus on place-specific crime problems.</p>
 
 ## Task
-As a Tableau developer, you are tasked with creating an interactive Sales Dashboard in Tableau for the Sales department to use it for ad-hoc analysis and reporting.
+As a data scientist, you should prepare a dashboard to keep the police department and the city updated on the statistics of crime events. You are required to create a dashboard/story using tableau for the communication website. Pay attention to data storytelling
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
