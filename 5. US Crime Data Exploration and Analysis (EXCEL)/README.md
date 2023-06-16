@@ -1,11 +1,11 @@
  <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5d4ee40b4f17990001a00905/1617922427624-K7IQZRDSENRZZDEOAQXD/IMG_2371.GIF?format=750w" alt="Background" height="300 width="500">
+  <img src="https://cdn.dribbble.com/users/514480/screenshots/1466774/crimerate.gif" alt="Background" height="400 width="600">
 
-# **Crime Analysis Dashboard**-(Tableau Project)
+## US Crime Data Exploration and Analysis (EXCEL)
 
 DESCRIPTION
 
-*Problem Scenario*: Crime analysis is important for law-and-order maintenance at any place. It helps the police department and law enforcement agencies to identify patterns of crime, which is crucial for the effective planning of a crime prevention program. The purpose of crime data analysis is to support the operations of the police department, like a criminal investigation, apprehension, prosecution, and development of crime prevention and reduction strategies.
+*Problem Scenario*: An organized quantitative and qualitative investigation is done to find trends in crime and disorder. Information on these patterns helps law enforcement agencies deploy resources more effectively. Crime analysis plays an important role in devising solutions to crime problems and formulating crime prevention strategies. 
 
 ## About
 The dataset is  available on my Github, 
@@ -26,7 +26,7 @@ Crime analysis provides a process, which incorporates crime into site analysis.1
 Situational crime prevention incorporates other crime prevention and law enforcement strategies in an effort to focus on place-specific crime problems.</p>
 
 ## Task
-As a data scientist, you should prepare a dashboard to keep the police department and the city updated on the statistics of crime events. You are required to create a dashboard/story using tableau for the communication website. Pay attention to data storytelling
+The goal of this analysis to understand crime rate in US. What kind of crimes are most prevalent in US? Are there certain times when crime is more likely to occur? If so, when? Find if there is any major difference in the regions of US in crime rate.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
