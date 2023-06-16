@@ -1,32 +1,37 @@
  <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5d4ee40b4f17990001a00905/1617922427624-K7IQZRDSENRZZDEOAQXD/IMG_2371.GIF?format=750w" alt="Background" height="300 width="500">
+  <img src="https://thumbs.gfycat.com/BriskHideousAndalusianhorse-size_restricted.gif" alt="Background" height="300 width="500">
 
-# **Crime Analysis Dashboard**-(Tableau Project)
+# **Superstore Sales Analysis and Visualization**
 
 DESCRIPTION
 
-*Problem Scenario*: Crime analysis is important for law-and-order maintenance at any place. It helps the police department and law enforcement agencies to identify patterns of crime, which is crucial for the effective planning of a crime prevention program. The purpose of crime data analysis is to support the operations of the police department, like a criminal investigation, apprehension, prosecution, and development of crime prevention and reduction strategies.
+Super Store is a small retail business located in the United States. They sell Furniture, Office Supplies and Technology products and their customers are the mass Consumer, Corporate and Home Offices.
+
+The data set contains sales, profit and geographical information of Super Store.
+
+Our task is to analyse the sales data and identify weak areas and opportunities for Super Store to boost business growth.
 
 ## About
-The dataset is  available on my Github, 
-Crime analysis provides a process, which incorporates crime into site analysis.1 The analysis is sometimes called a safety audit or risk assessment. This process has been developed based on a variety of neighborhoods and sites and in particular areas ranging from neighborhood developments, transit stations, mega-block developments, park designs, public realm plazas, and corporate/business operations. An outline of the analysis process includes:
+<p align="center">
+  <img src="https://yt3.googleusercontent.com/ytc/AGIKgqNxjEU7_vEsrzXrBVdibNsewrrIhCDrhEMHz-xe=s900-c-k-c0x00ffffff-no-rj" alt="Background" height="300 width="500">
 
-1. Demographic analysis,
+## **Business Questions**
 
-2. Crime analysis,
+Which Category is Best Selling and Most Profitable?</p>
+What are the Best Selling and Most Profitable Sub-Category?</p>
+Which is the Top Selling Sub-Category?</p>
+Which Customer Segment is Most Profitable?</p>
+Which is the Preferred Ship Mode?</p>
+Which Region is the Most Profitable?</p>
+Which City has the Highest Number of Sales?</p>
+Who is Reading this Analysis?</p>
 
-3. Site analysis,
-
-4. Use analysis,
-
-5. Neighborhood/user consultation, and
-
-6. Pathway analysis.
-
-Situational crime prevention incorporates other crime prevention and law enforcement strategies in an effort to focus on place-specific crime problems.</p>
+We assume that the Super Store is a family business and is owned by 1 or 2 owners who are very invested in their business.
+Owners are likely not people who are expert in reading charts or interpreting statistical analysis, so our analysis will be in layman terms and easy to understand.</p>
 
 ## Task
-As a data scientist, you should prepare a dashboard to keep the police department and the city updated on the statistics of crime events. You are required to create a dashboard/story using tableau for the communication website. Pay attention to data storytelling
+The goal of this analysis is to generate some insight from the data and answer some business questions. The question can like Top product in terms of sales, Which Region is most profitable etc. Task is to analyze the sales data and identify weak areas and opportunities for Super Store to boost business growth.
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
